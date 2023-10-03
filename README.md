@@ -1,14 +1,14 @@
+<div align="right">
+  <img height="300" src="https://media.licdn.com/dms/image/D4D16AQF4MyuVthN7mA/profile-displaybackgroundimage-shrink_350_1400/0/1695714519560?e=1701907200&v=beta&t=ZeitYKgVwr1SEyPWdxyDM9LOxBGiH0Nf4mk7gGBjmyw"  />
+</div>
+
+###
+
 <h1 align="left">Michael Michaeli</h1>
 
 ###
 
 <h3 align="left">Full Stack Engineer @ CET | FS, FE, Web, Development, Engineering</h3>
-
-###
-
-<div align="right">
-  <img height="100" src="https://media.licdn.com/dms/image/D4D35AQGNteSJ1f75rQ/profile-framedphoto-shrink_200_200/0/1695714756326?e=1696921200&v=beta&t=FpOmTud50_0L_MidiNMYbRTm_zw8ZTTSVtD9x1nivYc"  />
-</div>
 
 ###
 
@@ -93,7 +93,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/michael_michaeli8@hotmail.com">
+  <a href="https://open.spotify.com/user/21i33ukstsfe2vxgdz5uagouq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
   </a>
 </div>
