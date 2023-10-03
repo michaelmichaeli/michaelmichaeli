@@ -22,9 +22,14 @@
 </div>
 
 
+<h4 align="left">A Little Bit About ME:</h4>
+<p align="left">I'm a highly motivated Full Stack Developer with a passion for learning new technologies. In the past few years, I have developed web applications from end to end. I consider myself a team player, creative problem-solver, excellent communicator with solid interpersonal and leadership skills. I use cutting-edge technologies like React and Node.js. I’m committed to enhancing user experiences with meticulous attention to detail to deliver value to both companies and customers.</p>
+
 ###
 
-<p align="left">I work with:</p>
+###
+
+<h4 align="left">I work with:</h4>
 
 ###
 
@@ -74,7 +79,7 @@
 
 ###
 
-<p align="left">Contact Me:</p>
+<h4 align="left">Contact Me:</h4>
 
 ###
 
@@ -92,7 +97,7 @@
 
 ###
 
-<p align="left">I listen to:</p>
+<h4 align="left">I listen to:</h4>
 
 ###
 
