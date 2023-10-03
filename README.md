@@ -1,8 +1,8 @@
-<h1 align="left">Michael Michaeli</h1>
+<h1 align="left">Michael Michaeli  👋  </h1>
 
 ###
 
-<h3 align="left">Full Stack Engineer @ CET | FS, FE, Web, Development, Engineering</h3>
+<h3 align="left">👩‍💻  Full Stack Engineer @ CET | FS, FE, Web, Development, Engineering</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelmichaeli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<h2 align="left">👩‍💻  About Me:</h2>
+<h2 align="left">🔮  About Me:</h2>
 <p align="left">I'm a highly motivated Full Stack Developer with a passion for learning new technologies. In the past few years, I have developed web applications from end to end. I consider myself a team player, creative problem-solver, excellent communicator with solid interpersonal and leadership skills. I use cutting-edge technologies like React and Node.js. I’m committed to enhancing user experiences with meticulous attention to detail to deliver value to both companies and customers.</p>
 
 ###
