@@ -8,7 +8,7 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=michaelmichaeli&locale=en&mode=weekly&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelmichaeli&locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelmichaeli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -85,10 +85,10 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/21i33ukstsfe2vxgdz5uagouq?si=773fdfaea278448c">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<p align="left">I listen to:</p>
+
+###
+
+![](https://spotify-recently-played-readme.vercel.app/api?user=21i33ukstsfe2vxgdz5uagouq)
 
 ###
