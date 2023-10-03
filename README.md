@@ -1,7 +1,3 @@
-<div align="left">
-  <img height="258" src="https://media.licdn.com/dms/image/D4D16AQF4MyuVthN7mA/profile-displaybackgroundimage-shrink_350_1400/0/1695714519560?e=1701907200&v=beta&t=ZeitYKgVwr1SEyPWdxyDM9LOxBGiH0Nf4mk7gGBjmyw"  />
-</div>
-
 ###
 
 <h1 align="left">Michael Michaeli</h1>
