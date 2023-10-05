@@ -10,16 +10,6 @@
 
 ###
 
-<h2 align="left">🔥 My Stats:</h2>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=michaelmichaeli&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelmichaeli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 <h2 align="left">🔮  About Me:</h2>
 <p align="left">I'm a highly motivated Full Stack Developer with a passion for learning new technologies. In the past few years, I have developed web applications from end to end. I consider myself a team player, creative problem-solver, excellent communicator with solid interpersonal and leadership skills. I use cutting-edge technologies like React and Node.js. I’m committed to enhancing user experiences with meticulous attention to detail to deliver value to both companies and customers.</p>
 
