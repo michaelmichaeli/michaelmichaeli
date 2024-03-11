@@ -1,17 +1,20 @@
-<h1 align="left">Michael Michaeli  👋  </h1>
+<h1 align="left">Hi, I'm Michael Michaeli 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Full Stack Engineer @ CET | FS, FE, Web, Development, Engineering</h3>
-
-###
-
-<img src="https://github.com/michaelmichaeli/michaelmichaeli/blob/main/output/snake.svg" alt="Snake animation" />
+<h3 align="left">👩‍💻 I'm a Full Stack Tech Lead Engineer @CET | Software, Full Stack, Frontend, Web, Development, Engineering</h3>
 
 ###
 
 <h2 align="left">🔮  About Me:</h2>
-<p align="left">I'm a highly motivated Full Stack Developer with a passion for learning new technologies. In the past few years, I have developed web applications from end to end. I consider myself a team player, creative problem-solver, excellent communicator with solid interpersonal and leadership skills. I use cutting-edge technologies like React and Node.js. I’m committed to enhancing user experiences with meticulous attention to detail to deliver value to both companies and customers.</p>
+
+<p align="left">
+I am a results-driven Full Stack Developer with a passion for problem-solving. Known for my adaptability, strong communication skills, and motivational approach. Commited to writing stable, reusable, declarative, and clean code. Collaborate with designers, product-managers and other teammates. Dedicated to delivering high-quality solutions. With my background, I bring a technical expertise and a proactive, organized approach to projects. I view challenges as opportunities for growth and leverage my skills to drive successful outcomes.
+</p>
+
+###
+
+<img src="https://github.com/michaelmichaeli/michaelmichaeli/blob/main/output/snake.svg" alt="Snake animation" />
 
 ###
 
