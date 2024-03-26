@@ -9,7 +9,22 @@
 <h2 align="left">🔮  About Me:</h2>
 
 <p align="left">
-I am a results-driven Full Stack Developer with a passion for problem-solving. Known for my adaptability, strong communication skills, and motivational approach. Commited to writing stable, reusable, declarative, and clean code. Collaborate with designers, product-managers and other teammates. Dedicated to delivering high-quality solutions. With my background, I bring a technical expertise and a proactive, organized approach to projects. I view challenges as opportunities for growth and leverage my skills to drive successful outcomes.
+🔧 I'm a Full Stack Developer who loves experimenting with JavaScript, TypeScript, and CSS, and I have experience with frameworks like React, Vue, Angular, Tailwind, Storybook, Vite, and Node.js. What sets me apart is my passion for exploring emerging technologies and my enthusiasm for sharing my knowledge with others.
+</p>
+<p align="left">
+🎯 My ultimate goal is to become one of the top software developers in the Israeli community and to mentor other developers to achieve excellence. I have a deep appreciation for Full Stack Development and am always keen to learn from fellow professionals in the field.
+</p>
+<p align="left">
+📚 One aspect I take pride in is my ability to learn independently. Throughout my career, I've acquired extensive knowledge through self-study and have assisted colleagues and fellow developers with various queries, projects, and more.
+</p>
+<p align="left">
+🌐 Additionally, I actively contribute to open-source projects and engage with the vibrant Israeli open-source community. I'm always open to collaborating with others on exciting new projects.
+</p>
+<p align="left">
+🤙 If you have any questions or would like to discuss Full Stack Development further, feel free to reach out. Don't hesitate to get in touch.
+</p>
+<p align="left">
+🌱 Let's work together to enhance the world of Full Stack Development!
 </p>
 
 ###
