@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 I'm a Software Developer @Voyager-Labs | Software, Full Stack, Frontend, Web, Development, Engineering</h3>
+<h3 align="left">👩‍💻  I'm a Software Developer @Voyager-Labs | Software, Full Stack, Frontend, Web, Development, Engineering</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">🛠   I work with:</h2>
+<h2 align="left">🛠   I Work With:</h2>
 
 ###
 
