@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 I'm a Software Developer @CET | Software, Full Stack, Frontend, Web, Development, Engineering</h3>
+<h3 align="left">👩‍💻 I'm a Software Developer @Voyager-Labs | Software, Full Stack, Frontend, Web, Development, Engineering</h3>
 
 ###
 
