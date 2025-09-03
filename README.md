@@ -1,3 +1,6 @@
+<img width="2048" height="512" alt="image" src="https://github.com/user-attachments/assets/248e5e35-f6e3-454c-9be4-f54cbfaede04" />
+
+
 <h1 align="left">Hi, I'm Michael Michaeli 👋</h1>
 
 ###
